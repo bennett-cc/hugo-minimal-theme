@@ -1,7 +1,7 @@
 ---
 # Display name
 title: test
-name_pronunciation: Wu En da
+name_pronunciation: local
 
 # Is this the primary user of the site?
 superuser: true
